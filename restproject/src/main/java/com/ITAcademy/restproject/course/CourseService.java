@@ -39,7 +39,7 @@ public class CourseService {
 	}
 
 
-	public void updateCourse(String id, Course course) {
+	public void updateCourse(Course course) {
 //		for (int i = 0; i < topics.size(); i++) { ////OLD without Persistence
 //			if (topics.get(i).getId().equals(id)) {
 //				//Update attributes
